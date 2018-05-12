@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '42768'
     url: http://www.gutenberg.org/2009/agents/42768
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44461#Wanderings-through-unknown-Austria
 gutenberg_issued: '2013-12-18'
 gutenberg_type: Text
 identifiers:
