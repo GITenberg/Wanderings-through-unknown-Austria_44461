@@ -1,0 +1,38 @@
+_repo: Wanderings-through-unknown-Austria_44461
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Thurn und Taxis, Marie, Princess
+    aliases:
+    - Thurn-Taxis, Mary
+    - Hohenlohe, Marie, Princess
+    - Thurn und Taxis, Marie zu Hohenlohe Furstin von
+    - Taxis, Marie, Princess Thurn und
+    - Thurn und Taxis, Marie zu Hohenlohe Fürstin von
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '42769'
+    url: http://www.gutenberg.org/2009/agents/42769
+covers:
+- cover_type: archival
+  image_path: 44461-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hodgson, Randolph Llewellyn
+    gutenberg_agent_id: '42768'
+    url: http://www.gutenberg.org/2009/agents/42768
+description: ''
+gutenberg_issued: '2013-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44461'
+  lccn: 01018406
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austria -- Description and travel'
+- !lcc 'DB'
+title: Wanderings through unknown Austria
+url: http://www.gutenberg.org/ebooks/44461
